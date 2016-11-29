@@ -1,0 +1,19 @@
+CV v1
+CV v6
+CV v5
+CV v7
+CV v2
+CV v4
+CV v3
+CA e1 v1 v2 6
+CA e2 v1 v7 5
+CA e3 v1 v4 1
+CA e4 v2 v3 12
+CA e5 v2 v7 3
+CA e6 v3 v7 6
+CA e7 v6 v3 3
+CA e8 v7 v5 1
+CA e9 v7 v4 3
+CA e10 v6 v7 10
+CA e11 v6 v5 8
+CA e12 v5 v4 10 
